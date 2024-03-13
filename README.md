@@ -1,6 +1,5 @@
 
-![Alt text](https://github.com/JacobWoods19/Flashy/blob/main/FlashySS1.PNG?raw=true | width=100)
-
+<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashySS1.PNG?raw=true' width='25'>
 # Flashy
 
 
