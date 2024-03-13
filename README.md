@@ -1,4 +1,4 @@
-(https://github.com/JacobWoods19/Flashy/blob/main/FlashyLogo.png?raw=true)
+!(https://github.com/JacobWoods19/Flashy/blob/main/FlashyLogo.png?raw=true)
 
 # Flashy
 
