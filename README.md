@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/JacobWoods19/Flashy/blob/main/FlashySS1.PNG?raw=true)
+![Alt text](https://github.com/JacobWoods19/Flashy/blob/main/FlashySS1.PNG?raw=true | width=100)
 
 # Flashy
 
