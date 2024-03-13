@@ -3,7 +3,16 @@
 ## Flashy
 <img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashyLogo.png?raw=true' width='200'>
 
-This is my Swift Student Challenge 2024 submission, Flashy. Flashy uses OCR (Optical Character Recognoition) and pattern matching to allow students to take pictures of their handwritten notes and turns them into flashcards.
+This is my Swift Student Challenge 2024 submission, Flashy. Flashy uses OCR (Optical Character Recognoition) and pattern matching to allow students to take pictures of their handwritten notes which then **automatically get turned into flashcards** 
+
+## Features
+1. Review Mode
+2. Shake To Shuffle
+3. Study Stats
+4. Decks For Organization
+5. Long Press Card To Review Note
+6. Storage Of Note Photos
+
 
 ## Usage
 1. Clone Repo Onto Your Machine
