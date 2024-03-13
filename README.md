@@ -1,5 +1,4 @@
-
-<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashySS1.PNG?raw=true' width='25'>
+<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashyLogo.PNG?raw=true' width='200'>
 # Flashy
 
 
@@ -9,6 +8,9 @@ This is my Swift Student Challenge 2024 submission, Flashy. Flashy uses OCR (Opt
 1. Clone Repo Onto Your Machine
 2. Open via XCode
 3. Open as 'App Playground'
+<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashySS1.PNG?raw=true' width='200'>
+<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashySS2.PNG?raw=true' width='200'>
+<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashySS3.PNG?raw=true' width='200'>
 
 ## Contributing
 
