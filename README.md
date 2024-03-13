@@ -1,5 +1,5 @@
-<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashyLogo.PNG?raw=true' width='200'>
-# Flashy
+<img src='https://github.com/JacobWoods19/Flashy/blob/main/FlashyLogo.png?raw=true' width='200'>
+## Flashy
 
 
 This is my Swift Student Challenge 2024 submission, Flashy. Flashy uses OCR (Optical Character Recognoition) and pattern matching to allow students to take pictures of their handwritten notes and turns them into flashcards.
